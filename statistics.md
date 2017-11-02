@@ -14,11 +14,28 @@ details:
 
 http://www.cvedetails.com/product/124/Microsoft-IE.html?vendor_id=26
 
+### Firefox
+
+![cve_of_firefox](https://github.com/mcgrady1/browser_poc/blob/master/firefox.png)
+
+details:
+
+http://www.cvedetails.com/product/3264/Mozilla-Firefox.html?vendor_id=452
+
+### Safari
+
+![cve_of_safari](https://github.com/mcgrady1/browser_poc/blob/master/safari.png)
+
+details:
+
+http://www.cvedetails.com/product/2935/Apple-Safari.html?vendor_id=49
+
 ### POC
 
-- chrome
+- chrome (chrome.xls)
 
 
 
-- ie
+- IE (IE.XLS and EDG.xls)
+- firefox (firefox.xls)
 
